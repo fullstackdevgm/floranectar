@@ -41,3 +41,8 @@
 /var/package/*
 !/var/package/*.xml
 
+/cgi-bin
+/errors
+/images
+/photos
+/pkginfo
